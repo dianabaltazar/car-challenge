@@ -13,3 +13,4 @@ env.bak/
 venv.bak/
 # DStore
 *.DS_Store
+.DS_Store
